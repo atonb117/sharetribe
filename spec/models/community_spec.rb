@@ -1,10 +1,9 @@
-# encoding: UTF-8
+# encoding: utf-8
 # == Schema Information
 #
 # Table name: communities
 #
 #  id                                         :integer          not null, primary key
-#  name                                       :string(255)
 #  domain                                     :string(255)
 #  created_at                                 :datetime
 #  updated_at                                 :datetime
